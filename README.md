@@ -1,3 +1,6 @@
+<a href="https://techforpalestine.org/learn-more/" target="_blank">
+ <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="https://techforpalestine.org/learn-more/" />
+ </a>
 <h1 align='center'><b> Hello friend 👋, I am Majd </b></h1>
 
 
