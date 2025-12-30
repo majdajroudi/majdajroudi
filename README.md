@@ -1,4 +1,4 @@
-<a href="https://techforpalestine.org/learn-more/" target="_blank" >
+<!-- <a href="https://techforpalestine.org/learn-more/" target="_blank" >
  <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="https://techforpalestine.org/learn-more/" />
  </a>
 <h1 align='center'><b> Hello friend 👋, I am Majd </b></h1>
@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working as a Frontend Developer
-- 🌱 I’m currently learning Java Spring
 
 - 💬 Ask me about Reactjs 
 
@@ -25,4 +24,4 @@
  - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: 
--->
+--> -->
